@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-kellyirc",
+  "version": "1.0.0",
+  "description": "eslint configuration for kellyirc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellyirc/eslint-config-kellyirc.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "kellyirc"
+  ],
+  "author": "Rahat Ahmed <rahatarmanahmed@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kellyirc/eslint-config-kellyirc/issues"
+  },
+  "homepage": "https://github.com/kellyirc/eslint-config-kellyirc#readme"
+}
