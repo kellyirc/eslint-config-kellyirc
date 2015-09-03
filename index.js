@@ -1,4 +1,5 @@
 module.exports = {
+    "extends": "eslint:recommended",
     "rules": {
         "no-extra-parens": [2, "functions"],
         "dot-location": [2, "property"],
