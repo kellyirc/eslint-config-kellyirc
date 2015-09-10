@@ -16,6 +16,7 @@ module.exports = {
         "comma-style": [2, "last"],
         "computed-property-spacing": [2, "never"],
         "indent": [2, 4, {"SwitchCase": 1}],
+        "no-console": 0,
         "no-lonely-if": 2,
         "no-multiple-empty-lines": [2, {"max": 3}],
         "no-nested-ternary": 2,
@@ -30,6 +31,7 @@ module.exports = {
         "space-before-function-paren": [2, "never"],
         "space-in-parens": [2, "never"],
         "spaced-comment": [2, "always"]
+
 
 /*
     Recommended es6 rules.
